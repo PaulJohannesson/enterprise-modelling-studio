@@ -14,4 +14,5 @@ You should be careful to point out only the weaknesses and explain why they are 
 - For each means, check that it is formulated as something that can help to achieve a goal.
 - Check that all requirements of the exercise have been addressed.
 - Identify missing relationships among the elements of the model.
+- Identify all language errors and problems.
 
