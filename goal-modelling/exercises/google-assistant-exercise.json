@@ -1,0 +1,6 @@
+{
+  "components": [
+    "goal-modelling/prompts/exercise-prompt.md",
+    "goal-modelling/exercises/google-assistant.md"
+  ]
+}
