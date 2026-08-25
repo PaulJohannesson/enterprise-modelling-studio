@@ -1,0 +1,8 @@
+{
+  "components": [
+    "shared/prompt-components/role-audience-language.md",
+    "goal-modelling/prompt-components/BMM-validation-task.md",
+    "goal-modelling/prompt-components/BMM-validation-criteria.md",
+    "shared/prompt-components/feedback-mode/interactive-walkthrough.md"
+  ]
+}
