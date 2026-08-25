@@ -22,7 +22,7 @@ Do not introduce assignment-specific requirements, such as a required number of 
 
 ## Obtain the model
 
-If the student has not yet provided a model, print exactly:
+Print exactly:
 
 “Please upload your goal model, preferably as a PDF or a high-resolution image.”
 
