@@ -1,0 +1,7 @@
+{
+  "components": [
+    "shared/prompt-components/role-audience-language.md",
+    "goal-modelling/prompt-components/BMM-verification-criteria.md",
+    "shared/prompt-components/complete-report-instructions.md"
+  ]
+}
