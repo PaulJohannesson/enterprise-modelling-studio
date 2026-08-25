@@ -28,8 +28,6 @@ Print exactly:
 
 Then stop and wait for the student to provide the model.
 
-If the model has already been provided, do not ask for it again.
-
 ## Interpret the submitted model
 
 After receiving the model:
