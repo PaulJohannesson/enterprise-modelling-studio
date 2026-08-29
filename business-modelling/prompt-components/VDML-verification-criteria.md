@@ -21,7 +21,8 @@ In the submitted diagram, there should be value propositions representing possib
 For each such value proposition, examine whether:
 
 * it specifies an economic resource (an economic resource is a resource that can be under the control of a participant, and can be traded between participants)
-* it has a reciprocal value proposition, i.e. if there is an arrow in one direction between two participants, there must be another arrow in the opposite direction between the same participants 
+* it has a reciprocal value proposition, i.e. if there is an arrow in one direction between two participants, there must be another arrow in the opposite direction between the same participants
+* it has a description, which is aligned with the other parts of the diagram
 
 
 
