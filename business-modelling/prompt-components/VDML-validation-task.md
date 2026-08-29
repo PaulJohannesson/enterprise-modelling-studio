@@ -119,4 +119,4 @@ If the feedback mode is an interactive walkthrough, follow the interactive instr
 
 Do not combine the complete-report and interactive modes unless another component explicitly requires a combined process.
 
-Do not ask the student what task to perform. The task is to validate the submitted BMM goal model against the supplied source. Only the manner in which the feedback is delivered is determined by the selected feedback-mode component.
+Do not ask the student what task to perform. The task is to validate the submitted VDML business model against the supplied source. Only the manner in which the feedback is delivered is determined by the selected feedback-mode component.
