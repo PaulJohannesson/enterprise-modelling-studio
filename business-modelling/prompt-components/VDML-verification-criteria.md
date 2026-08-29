@@ -4,15 +4,19 @@ Use the following criteria to verify the internal quality of the submitted VDML 
 
 Verification concerns whether the model is internally coherent, consistently formulated, and constructed according to the modelling rules. It does not determine whether the model accurately or completely represents an external scenario, specification, or other source.
 
-## Actors
+## Participants
 
-In the submitted diagram, you will find a graph with large rectangles and possibly also much smaller rectangles. Each rectangle is intended to correspond to an actor. 
+In the submitted diagram, you will find a graph with large rectangles and possibly also much smaller rectangles. Each rectangle is intended to correspond to a participant in a business network. 
+
 For each rectangle, examine whether:
 
-* the text in the rectangle does refer to an actor (an actor can be an organisation or an individual)
+* the text in the rectangle does refer to a participant (an participant can be an organisation or an individual)
 
+Examples of participants are: supplier, distributor, bank, IBM.
 
-## Objectives
+## Value Propositions
+
+In the submitted diagram, there should be value propositions representing possible resource transfers between participants. These value propositions are represent by labelled small boxes on directed arrows, or labelled arrows.
 
 For each objective, examine whether:
 
