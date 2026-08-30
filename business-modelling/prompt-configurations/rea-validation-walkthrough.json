@@ -1,0 +1,8 @@
+{
+  "components": [
+    "shared/prompt-components/role-audience-language.md",
+    "business-modelling/prompt-components/REA-validation-task.md",
+    "business-modelling/prompt-components/REA-validation-criteria.md",
+    "shared/prompt-components/feedback-mode/interactive-walkthrough.md"
+  ]
+}
