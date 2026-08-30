@@ -134,6 +134,6 @@ Do not claim that:
 * a missing source detail necessarily belongs in the model;
 * an unsupported addition is false merely because it is absent from the source;
 * an ambiguity can be resolved without evidence;
-* internal BMM correctness has been established unless verification criteria have also been applied.
+* internal VDML correctness has been established unless verification criteria have also been applied.
 
 When the supplied material is insufficient for a definite judgement, state what cannot be determined and why.
