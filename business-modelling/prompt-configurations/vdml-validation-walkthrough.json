@@ -1,0 +1,8 @@
+{
+  "components": [
+    "shared/prompt-components/role-audience-language.md",
+    "business-modelling/prompt-components/VDML-validation-task.md",
+    "business-modelling/prompt-components/VDML-validation-criteria.md",
+    "shared/prompt-components/feedback-mode/interactive-walkthrough.md"
+  ]
+}
