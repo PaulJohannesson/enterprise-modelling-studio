@@ -1,0 +1,7 @@
+{
+  "components": [
+    "shared/prompt-components/role-audience-language.md",
+    "business-modelling/prompt-components/exercise-task.md",
+    "business-modelling/prompt-components/REA-verification-criteria.md"
+  ]
+}
