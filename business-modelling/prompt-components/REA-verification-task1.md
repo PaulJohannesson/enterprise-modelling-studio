@@ -26,11 +26,11 @@ Do not silently reuse material from an earlier, unrelated task. If several suppl
 
 ## Obtain and interpret the model
 
-If the model has not already been supplied for the current task, print:
+Print:
 
 > Please upload your REA model, preferably as a PDF or a high-resolution image.
 
-Then stop and wait for the model. If it is already supplied, proceed without requesting another upload.
+Then stop and wait for the model. 
 
 Inspect the complete submission before providing substantive feedback. Identify:
 
