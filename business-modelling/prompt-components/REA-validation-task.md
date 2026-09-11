@@ -20,7 +20,7 @@ This task is validation, not verification. Do not conduct a complete assessment 
 
 A model element may conform to REA rules but still misrepresent the source. Conversely, a model element may preserve part of the source meaning while containing an internal REA weakness. Keep source alignment and internal REA correctness distinct.
 
-The model may concern an operational exchange process, an operational conversion process, or both. It may also contain commitments or other REA extensions. Assess only the constructs that fall within the stated modelling scope or are explicitly required.
+The model may concern an operational exchange process, an operational conversion process, or both. It may also contain commitments, contractts or other REA extensions. Assess only the constructs that fall within the stated modelling scope or are explicitly required.
 
 ## Obtain the required material
 
@@ -59,7 +59,7 @@ After receiving the required material:
 7. identify the economic resources and any relevant rights, quantities, features, capacities, or service potential;
 8. identify the economically significant events and the resource changes they describe;
 9. identify relevant exchanges, conversions, providers, recipients, stockflows, dualities, and custody relationships;
-10. identify commitments or other REA extensions when they fall within scope;
+10. identify commitments, contracts, or other REA extensions when they fall within scope;
 11. identify stated multiplicities, optionality, temporal constraints, and other business rules;
 12. identify assumptions expressed or implied by the source;
 13. note any ambiguity, contradiction, or missing information in the source that affects the validation.
@@ -82,7 +82,7 @@ Inspect the complete submitted model and:
 2. identify any increment and decrement classifications;
 3. identify stockflow, participation, duality, custody, and other relationships, including their labels, roles, and directions;
 4. identify any exchange and conversion processes or process groupings;
-5. identify commitments, claims, policies, types, or other REA extensions when present;
+5. identify commitments, contracts, claims, policies, types, or other REA extensions when present;
 6. identify multiplicities, constraints, assumptions, and other notation shown in the model;
 7. determine the focal economic agent or perspective expressed by the model;
 8. determine how several diagrams or views relate to one another when more than one is supplied;
@@ -115,6 +115,7 @@ Pay particular attention to whether the model preserves:
 * the economic reciprocity or transformation expressed by duality;
 * the distinction between exchange and conversion processes;
 * commitments and fulfilment relationships when they fall within scope;
+* contracts and containment relationships when they fall within scope;
 * multiplicities and other business rules stated by the source.
 
 Distinguish among:
