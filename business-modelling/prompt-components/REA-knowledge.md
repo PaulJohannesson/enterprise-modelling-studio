@@ -46,6 +46,10 @@ A neutral or multi-agent representation is possible when its interpretation is e
 
 **Conventions.** Resource names identify what has economic value rather than an activity. Resource classes use compatible levels of abstraction. Different names for the same resource, or separate classes for it, have a clear modelling reason. Economically important distinctions between resources and between their rights remain identifiable.
 
+## Resource types
+
+A **resource type** represents a category of economic resources that share specified characteristics, such as product category, size, or material. An economic resource can be related to its resource type through an is_instance_of relationship. Resources and resource types may appear together in a model, provided that their distinction and classification relationships are clear; their coexistence is not itself a modelling weakness.
+
 ## Economic events
 
 **Definition.** An economic event is an occurrence that changes the economic value, rights, quantity, features, capacity, or service potential of one or more economic resources from the selected perspective.
@@ -147,7 +151,9 @@ The following distinctions apply when these constructs are within the modelling 
 
 ### Commitments and fulfilment
 
-A **commitment** represents a future-oriented undertaking concerning an economic event. It may specify parties, resources, quantities, dates, or conditions. Orders, promises, reservations, and agreements can provide evidence of commitments, depending on their stated meaning.
+A **commitment** represents a future-oriented undertaking concerning an economic event. It may specify parties, quantities, dates, or conditions. Orders, promises, reservations, and agreements can provide evidence of commitments, depending on their stated meaning.
+
+Every **commitment must be related to at least one economic resource or resource type, specifying what the promised economic event will affect.** A commitment concerning a particular resource identifies that resource, whereas a commitment concerning a resource type specifies the category of resource promised without necessarily identifying an individual resource. For example, a delivery commitment may concern a particular picture or a picture of a specified type.
 
 A **fulfilment relationship** links a commitment with the economic event that satisfies it. The promised occurrence and the actual occurrence remain distinct. Reciprocal commitments express the corresponding undertakings in a planned exchange; their existence does not establish that the operational exchange has occurred.
 
@@ -159,7 +165,7 @@ The number of commitments, the participating parties, their terms, and exact con
 
 ### Other extensions
 
-Claims, policies, resource types, event types, and value-chain elements may also be included. Their meaning and constraints require the relevant supplied definitions or documented profile; mentioning them here does not provide a complete extended REA metamodel.
+Claims, policies, event types, and value-chain elements may also be included. Their meaning and constraints require the relevant supplied definitions or documented profile; mentioning them here does not provide a complete extended REA metamodel.
 
 A resource type and a resource, an event type and an occurrence, and a policy and an operational event represent different abstraction levels or roles. These distinctions remain identifiable when extensions and operational elements appear together.
 
