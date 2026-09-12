@@ -26,7 +26,7 @@ Do not silently reuse material from an earlier, unrelated task. If several suppl
 
 ## Obtain and interpret the model
 
-Print:
+You should not use a previously uploaded model. You should obtain a new model from the user. Print:
 
 > Please upload your REA model, preferably as a PDF or a high-resolution image.
 
