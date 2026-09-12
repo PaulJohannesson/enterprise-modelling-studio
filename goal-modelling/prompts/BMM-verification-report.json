@@ -1,0 +1,8 @@
+{
+  "components": [
+    "shared/role/coach.md",
+    "goal-modelling/tasks/BMM-verification.md",
+    "goal-modelling/BMM-knowledge.md",
+    "shared/output/complete-report.md"
+  ]
+}
