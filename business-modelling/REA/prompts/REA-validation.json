@@ -1,0 +1,8 @@
+{
+  "components": [
+    "shared/role/coach.md",
+    "business-modelling/REA/tasks/REA-validation.md",
+    "business-modelling/REA/REA-knowledge.md",
+    "shared/output/complete-report.md"
+  ]
+}
