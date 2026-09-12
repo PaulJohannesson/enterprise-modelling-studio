@@ -1,0 +1,8 @@
+{
+  "components": [
+    "shared/role/coach.md",
+    "business-modelling/VDML/tasks/VDML-validation.md",
+    "business-modelling/VDML/VDML-knowledge.md",
+    "shared/output/complete-report.md"
+  ]
+}
