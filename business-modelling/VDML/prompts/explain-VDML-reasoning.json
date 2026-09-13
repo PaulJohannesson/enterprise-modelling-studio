@@ -2,6 +2,6 @@
   "components": [
     "shared/role/coach.md",
     "shared/tasks/explain-reasoning.md",
-    "goal-modelling/VDML-knowledge.md"
+    "business-modelling/VDML/VDML-knowledge.md"
   ]
 }
