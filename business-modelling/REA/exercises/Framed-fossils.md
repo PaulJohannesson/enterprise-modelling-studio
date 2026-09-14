@@ -38,9 +38,13 @@ The conceptual schema should support answers to the following questions:
 
 ## Assignment — To Be Completed and Submitted After the Lesson
 
-Extend the model created during the lesson so that it can represent the following arrangements:
+Extend the model created during the lesson to represent the following:
 
-- Customers may choose to have their pictures gift-wrapped. This is an optional service for which the customer pays an additional charge.
-- Customers may choose to have their pictures delivered to their homes. This is also an optional service for which the customer pays an additional charge.
+- Customers may choose to have their pictures gift-wrapped for an additional charge.
+- Customers may choose to have their pictures delivered to their homes for an additional charge.
 
-When extending the model, consider how the company acquires the resources required to provide gift-wrapping and home-delivery services.
+In your extension, consider how the company acquires the resources needed to provide gift-wrapping and home delivery.
+
+You do not need to reproduce the entire model from the lesson. However, include the relevant parts of the original model, such as some economic agents and economic resources, to show how your extension connects to it.
+
+Stereotypes and multiplicities are not required, but all associations must have a name.
