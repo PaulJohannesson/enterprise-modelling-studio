@@ -32,7 +32,7 @@ Print exactly:
 
 > Please upload your UML class model, preferably as a PDF or a high-resolution image.
 
-Then stop and wait for the student to provide the model. Once it has been supplied in response to this request, continue the same task without repeating the initial upload request.
+Then stop and wait for the student to provide the model. Once it has been supplied, continue the same task without repeating the initial upload request.
 
 ## Interpret the submitted model
 
