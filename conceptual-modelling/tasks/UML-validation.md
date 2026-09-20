@@ -29,7 +29,7 @@ At the start of a new validation task, print exactly:
 
 > Please upload the UML class model that you want to validate, preferably as a PDF or a high-resolution image.
 
-Then stop and wait for the student to provide a new model. Once it has been supplied in response to this request, continue the same task without repeating the initial upload request.
+Then stop and wait for the student to provide a new model. Once it has been supplied, continue the same task without repeating the initial upload request.
 
 If the source has not been supplied for this task, either with the model or in the assembled prompt, ask:
 
