@@ -1,0 +1,7 @@
+{
+  "components": [
+    "shared/role/coach.md",
+    "shared/tasks/explain-reasoning.md",
+    "process-modelling/EPC-knowledge.md"
+  ]
+}

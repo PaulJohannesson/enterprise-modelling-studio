@@ -1,0 +1,8 @@
+{
+  "components": [
+    "shared/role/coach.md",
+    "process-modelling/tasks/EPC-validation.md",
+    "process-modelling/EPC-knowledge.md",
+    "shared/output/interactive-walkthrough.md"
+  ]
+}
