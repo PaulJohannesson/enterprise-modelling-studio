@@ -1,0 +1,7 @@
+{
+  "components": [
+    "shared/role/coach.md",
+    "conceptual-modelling/tasks/UML-exercise.md",
+    "conceptual-modelling/UML-class-knowledge.md"
+  ]
+}
